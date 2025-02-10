@@ -58,7 +58,7 @@ export default function Header() {
                         <img src="images/swiggy logo.png" alt="" className="h-[60px]" />
                     </div>
                     <div onClick={showSidemenu} className="cursor-pointer">
-                        <span className="font-bold border-b-[3px] border-[black]">Vikas Nagar</span> Lucknow , Utter Pradesh , India &nbsp;
+                        <span className="font-bold border-b-[3px] border-[black]">Vikas Nagar(2)</span> Lucknow , Utter Pradesh , India &nbsp;
                         <RxCaretDown
                             fontSize={25}
                             className="inline text-bolt text-[#ff5200]" />
